@@ -16,6 +16,7 @@ Download Python2.7 and extract:
 
 * `wget http://python.org/ftp/python/2.7.3/Python-2.7.3.tar.bz2`
 * `tar jxf Python-2.7.3.tar.bz2`
+* `cd Python-2.7.3`
 
 Build and install Python
 
