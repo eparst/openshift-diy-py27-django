@@ -16,7 +16,7 @@ export PATH=$OPENSHIFT_DATA_DIR/bin:$PATH
 
 # install setuptools and pip
 cd $OPENSHIFT_TMP_DIR
-wget http://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.ta... --no-check-certificate
+wget http://pypi.python.org/packages/source/s/setuptools/setuptools-0.6c11.tar.gz --no-check-certificate
 tar zxf setuptools-0.6c11.tar.gz
 cd setuptools-0.6c11
 python setup.py install
